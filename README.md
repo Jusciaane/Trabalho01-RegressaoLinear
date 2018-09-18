@@ -4,6 +4,8 @@ Trabalho 01 - Regressão Linear
 
 Disciplina de Aprendizado de Máquina - PPGEEC/UFRN
 
+Professor: Ivanovitch Medeiros
+
 Projeto de aprendizado de máquina (end-to-end) descrito no final da Aula 03 (slide 106 - item 2)
 
 # Banco escolhido
